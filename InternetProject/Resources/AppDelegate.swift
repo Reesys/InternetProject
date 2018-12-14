@@ -54,7 +54,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDele
         guard let topAsDetailController = secondaryAsNavController.topViewController as? InternetDetailViewController
             else
         { return false }
+        
+        return false
     }
-
 }
 
