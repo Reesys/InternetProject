@@ -22,7 +22,7 @@ public class InternetMasterViewController: UITableViewController
             "Standard Search Engine 🤠",
             "AP CSP 💂‍♂️",
             "Canyons District 🙅🏿‍♂️",
-            "CTEC 💅🏽",
+            "CTEC 🌝",
             "Social Media 🌚"
         ]
         
